@@ -1,0 +1,3 @@
+SELECT [client_id]
+      ,[password]
+  FROM [tso].[dbo].[temp_client_detail]
